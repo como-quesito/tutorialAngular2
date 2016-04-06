@@ -1,2 +1,2 @@
 # Primer Readme
-Mi primer deadme hecho
+Mi primer readme hecho desde linea de comandos
