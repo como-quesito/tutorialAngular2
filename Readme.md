@@ -1,5 +1,6 @@
 # Primer Readme
 En el proyecto en el IDE debes de poner el git init
+Para las backtics son ctrl-shift U0060 ->barra espaciadora
 ```javascript
 git init
 git add README.md
