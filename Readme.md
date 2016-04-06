@@ -8,7 +8,7 @@ git commit -m "first commit"
 git remote add origin https://github.com/como-quesito/tutorialAngular2.git
 git push -u origin master
 
-git add -A && git commit -m "Va todo
+git add -A && git commit -m "Va todo"
 git commit -m "otro" Readme.md
 
 ```
