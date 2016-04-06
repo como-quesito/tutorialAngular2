@@ -11,6 +11,9 @@ git push -u origin master
 git add -A && git commit -m "Va todo"
 git commit -m "otro" Readme.md
 
+Para hace un pull simplemente
+git pull
+
 ```
 Para hacer un commit de un solo archivo agregas git commit -m "otro" Readme.md
 y finalmente git push -u origin master
