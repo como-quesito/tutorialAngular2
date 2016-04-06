@@ -1,5 +1,5 @@
 # Primer Readme
-En el proyecto en el IDE debes de poner el git init , con esto se rgistra el proyecto con git y permitira los siguientes comandos el siguiente es git remote add orogin https://github.com/etc/etc
+En el proyecto en el IDE debes de poner el git init , con esto se rgistra el proyecto con git y permitira los siguientes comandos el siguiente es git remote add origin https://github.com/etc/etc
 Para las backtics son ctrl-shift U0060 ->barra espaciadora
 ```javascript
 git init
