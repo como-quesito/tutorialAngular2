@@ -12,4 +12,5 @@ git commit -m "otro" Readme.md
 
 ```
 Para hacer un commit de un solo archivo agregas git commit -m "otro" Readme.md
-y finalmente git push -u origin master
+y finalmente git push -u origin master.
+Si quieres hacer el commit para todo un directorio es: ** git add -A && git commit **

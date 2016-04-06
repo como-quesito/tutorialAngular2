@@ -4,6 +4,7 @@ import { HeroesComponent } from './heroes.component';
 import {DashboardComponent} from './dashboard.component';
 import { HeroDetailComponent } from './hero-detail.component';
 import { RouteConfig, ROUTER_DIRECTIVES, ROUTER_PROVIDERS } from 'angular2/router';
+//Una componente
 @Component({
   selector: 'my-app',
   template: `

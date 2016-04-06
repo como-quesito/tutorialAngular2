@@ -33,6 +33,7 @@ System.register(['angular2/core', './hero.service', './heroes.component', './das
                 router_1 = router_1_1;
             }],
         execute: function() {
+            //Una componente
             AppComponent = (function () {
                 function AppComponent() {
                     this.title = 'Tour of Heroes';
