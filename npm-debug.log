@@ -1,0 +1,115 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/nodejs', '/usr/bin/npm', 'install' ]
+2 info using npm@2.14.12
+3 info using node@v4.3.2
+4 verbose readDependencies loading dependencies from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/package.json
+5 warn package.json angular2-quickstart@1.0.0 No description
+6 warn package.json angular2-quickstart@1.0.0 No repository field.
+7 warn package.json angular2-quickstart@1.0.0 No README data
+8 verbose install where, deps [ '/home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros',
+8 verbose install   [ 'angular2',
+8 verbose install     'systemjs',
+8 verbose install     'es6-promise',
+8 verbose install     'es6-shim',
+8 verbose install     'reflect-metadata',
+8 verbose install     'rxjs',
+8 verbose install     'zone.js',
+8 verbose install     'concurrently',
+8 verbose install     'lite-server',
+8 verbose install     'typescript',
+8 verbose install     'typings' ] ]
+9 verbose install where, peers [ '/home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros',
+9 verbose install   [] ]
+10 verbose installManyTop reading for lifecycle /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/package.json
+11 info preinstall angular2-quickstart@1.0.0
+12 verbose installManyTop reading scoped package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/angular2/package.json
+13 verbose installManyTop reading scoped package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/concurrently/package.json
+14 verbose installManyTop reading scoped package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/es6-promise/package.json
+15 verbose installManyTop reading scoped package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/es6-shim/package.json
+16 verbose installManyTop reading scoped package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/lite-server/package.json
+17 verbose installManyTop reading scoped package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/reflect-metadata/package.json
+18 verbose installManyTop reading scoped package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/rxjs/package.json
+19 verbose installManyTop reading scoped package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/systemjs/package.json
+20 verbose installManyTop reading scoped package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/typescript/package.json
+21 verbose installManyTop reading scoped package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/typings/package.json
+22 verbose installManyTop reading scoped package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/zone.js/package.json
+23 verbose readDependencies loading dependencies from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/package.json
+24 verbose targetResolver reading package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/angular2/package.json
+25 verbose targetResolver reading package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/concurrently/package.json
+26 verbose targetResolver reading package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/es6-promise/package.json
+27 verbose targetResolver reading package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/es6-shim/package.json
+28 verbose targetResolver reading package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/lite-server/package.json
+29 verbose targetResolver reading package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/reflect-metadata/package.json
+30 verbose targetResolver reading package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/rxjs/package.json
+31 verbose targetResolver reading package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/systemjs/package.json
+32 verbose targetResolver reading package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/typescript/package.json
+33 verbose targetResolver reading package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/typings/package.json
+34 verbose targetResolver reading package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/zone.js/package.json
+35 verbose targetResolver reading package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/.bin/concurrent/package.json
+36 verbose targetResolver reading package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/.bin/concurrently/package.json
+37 verbose targetResolver reading package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/.bin/lite-server/package.json
+38 verbose targetResolver reading package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/.bin/tsc/package.json
+39 verbose targetResolver reading package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/.bin/tsserver/package.json
+40 verbose targetResolver reading package data from /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros/node_modules/.bin/typings/package.json
+41 verbose already installed skipping es6-promise@^3.0.2 /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros
+42 verbose already installed skipping es6-shim@^0.33.3 /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros
+43 verbose already installed skipping reflect-metadata@0.1.2 /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros
+44 verbose already installed skipping rxjs@5.0.0-beta.2 /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros
+45 verbose already installed skipping zone.js@0.5.15 /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros
+46 verbose already installed skipping concurrently@^2.0.0 /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros
+47 verbose already installed skipping lite-server@^2.1.0 /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros
+48 verbose already installed skipping typescript@^1.8.2 /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros
+49 verbose already installed skipping typings@^0.6.8 /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros
+50 verbose already installed skipping angular2@2.0.0-beta.7 /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros
+51 verbose already installed skipping systemjs@0.19.22 /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros
+52 silly install resolved []
+53 info build /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros
+54 info linkStuff angular2-quickstart@1.0.0
+55 silly linkStuff angular2-quickstart@1.0.0 has /home/campitos/Documents/PROYECTOS_ANGULAR2 as its parent node_modules
+56 verbose linkBins angular2-quickstart@1.0.0
+57 verbose linkMans angular2-quickstart@1.0.0
+58 verbose rebuildBundles angular2-quickstart@1.0.0
+59 verbose rebuildBundles [ '.bin',
+59 verbose rebuildBundles   'angular2',
+59 verbose rebuildBundles   'concurrently',
+59 verbose rebuildBundles   'es6-promise',
+59 verbose rebuildBundles   'es6-shim',
+59 verbose rebuildBundles   'lite-server',
+59 verbose rebuildBundles   'reflect-metadata',
+59 verbose rebuildBundles   'rxjs',
+59 verbose rebuildBundles   'systemjs',
+59 verbose rebuildBundles   'typescript',
+59 verbose rebuildBundles   'typings',
+59 verbose rebuildBundles   'zone.js' ]
+60 info install angular2-quickstart@1.0.0
+61 info postinstall angular2-quickstart@1.0.0
+62 verbose unsafe-perm in lifecycle true
+63 info angular2-quickstart@1.0.0 Failed to exec postinstall script
+64 verbose stack Error: angular2-quickstart@1.0.0 postinstall: `typings install`
+64 verbose stack Exit status 1
+64 verbose stack     at EventEmitter.<anonymous> (/usr/lib/node_modules/npm/lib/utils/lifecycle.js:214:16)
+64 verbose stack     at emitTwo (events.js:87:13)
+64 verbose stack     at EventEmitter.emit (events.js:172:7)
+64 verbose stack     at ChildProcess.<anonymous> (/usr/lib/node_modules/npm/lib/utils/spawn.js:24:14)
+64 verbose stack     at emitTwo (events.js:87:13)
+64 verbose stack     at ChildProcess.emit (events.js:172:7)
+64 verbose stack     at maybeClose (internal/child_process.js:821:16)
+64 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:211:5)
+65 verbose pkgid angular2-quickstart@1.0.0
+66 verbose cwd /home/campitos/Documents/PROYECTOS_ANGULAR2/tourOfHeros
+67 error Linux 3.19.0-51-generic
+68 error argv "/usr/bin/nodejs" "/usr/bin/npm" "install"
+69 error node v4.3.2
+70 error npm  v2.14.12
+71 error code ELIFECYCLE
+72 error angular2-quickstart@1.0.0 postinstall: `typings install`
+72 error Exit status 1
+73 error Failed at the angular2-quickstart@1.0.0 postinstall script 'typings install'.
+73 error This is most likely a problem with the angular2-quickstart package,
+73 error not with npm itself.
+73 error Tell the author that this fails on your system:
+73 error     typings install
+73 error You can get their info via:
+73 error     npm owner ls angular2-quickstart
+73 error There is likely additional logging output above.
+74 verbose exit [ 1, true ]
