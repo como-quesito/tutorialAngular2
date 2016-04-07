@@ -15,6 +15,9 @@ git commit -m "otro" Readme.md
 Para hace un pull simplemente
 git pull
 
+Para Clonar uno que ya existe
+git clone https://github.com/como-quesito/tutorialAngular2.git
+
 ```
 Para hacer un commit de un solo archivo agregas git commit -m "otro" Readme.md
 y finalmente git push -u origin master
